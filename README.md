@@ -75,6 +75,13 @@ $ (venv) flask db migrate
 $ (venv) flask db upgrade
 ```
 
+### Running the application
+```shell script
+$ (venv) flask run
+```
+Navigate to http://localhost:5000/ where the application will be running.
+
+
 ## License
 [MIT License](LICENSE.md)
 
