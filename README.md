@@ -1,6 +1,6 @@
 # Flask Login Boilerplate
 
-A boilerplate application with implementation of a basic flask login using SQLAlchemy and SQLLite
+A boilerplate application with implementation of a basic login using [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/quickstart/), [Flask-Login](https://flask-login.readthedocs.io/en/latest/) and [SQLLite](https://www.sqlite.org/index.html).
 
 
 
