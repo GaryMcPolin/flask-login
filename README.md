@@ -1,6 +1,6 @@
 # Flask Login Boilerplate
 
-A boilerplate application with implementation of a basic flask login
+A boilerplate application with implementation of a basic flask login using SQLAlchemy and SQLLite
 
 
 
