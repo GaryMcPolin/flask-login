@@ -89,6 +89,7 @@ Navigate to http://localhost:5000/ where the application will be running.
 ## Other
 Useful Links:
 - https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
 Useful Commands:
 - flask run (vs python wsgi.py)
 - flask shell (work outside app context)
